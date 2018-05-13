@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import '../App.css';
-import Chart from './Chart';
-import Grid from './Grid';
+import Chart from '../Chart';
+import Grid from '../Grid';
 
 class MainPage extends Component {
   render() {
